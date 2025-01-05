@@ -1,0 +1,49 @@
+
+.box>p
+{
+padding: 20px;
+
+
+
+}
+.section>.content>p{
+    margin: 15px;
+    
+    
+}
+.card-body>p{
+    border: 2px solid red;
+}
+.navbar *
+{
+    background-color: lightblue;
+}
+.header>h1
+{
+    margin-top: 20px;
+   
+}
+.footer>span
+{
+    padding: 10px;
+    
+}
+.main-content>.content>p
+{
+    border: 1px black solid;
+}
+.nav ul li:not(:first-child)
+{
+    margin-right: 15px;
+    
+
+}
+.gallery *
+{
+    background-color: lightgrey;
+}
+.container .footer span
+{
+    border: 1px black solid;
+    border-radius: 5px ;
+}
